@@ -1,0 +1,4 @@
+#Mon May 14 11:42:03 EDT 2018
+base.0=/Users/devuser/Desktop/HelloWorld/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+file.0=/Users/devuser/Desktop/HelloWorld/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex
